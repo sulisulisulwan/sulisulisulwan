@@ -1,12 +1,12 @@
 # Hello! 👋
 
-[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamwarrenwong/)
-[![Gmail](https://img.shields.io/badge/Gmail%20-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:warren.wong4@gmail.com)
-[![GitHub](https://img.shields.io/badge/WarrenWongCodes%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/WarrenWongCodes)](https://github.com/WarrenWongCodes)
+[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulimantekalli/)
+[![Gmail](https://img.shields.io/badge/Gmail%20-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sulimantekalli.se@gmail.com)
+[![GitHub](https://img.shields.io/badge/WarrenWongCodes%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/sulisulisulwan)](https://github.com/sulisulisulwan)
 
-- 👨‍💻 Software Engineer @ Fox
-- 🇺🇸 U.S. Marine Veteran
-- 🗺️ Avid travel enthusiast
+- 👨‍💻 Software Engineer
+- 🎻�Concert Violinist
+- 🥾 Hiking 🥾 , ♟️ Chessing ♟️, and 🧑‍🍳 Cooking!
 - 📍 Currently located in NYC
 
 ## 🔧 Technologies & Tools:
@@ -28,8 +28,6 @@
 ![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express%20-%23404d59.svg?&style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL%20-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%232187B6.svg?&style=flat-square&logo=postgreSQL&logoColor=white)
-![Sequelize](https://img.shields.io/badge/sequelize-blue?logo=sequelize)
 ![MongoDB](https://img.shields.io/badge/MongoDB%20-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose%20-%23880000.svg?&style=flat-square&logo=mongoose)
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white)
@@ -49,6 +47,7 @@
 ![Jest](https://img.shields.io/badge/Jest%20-%23C21325.svg?&style=flat-square&logo=Jest&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=flat-square&logo=Trello&logoColor=white)
 ![npm](https://img.shields.io/badge/npm%20-%23CB3837.svg?&style=flat-square&logo=npm&logoColor=black)
+![vim](https://img.shields.io/badge/npm%20-%23CB3837.svg?&style=flat-square&logo=npm&logoColor=black)
 ![Yarn](https://img.shields.io/badge/yarn%20-%232187B6.svg?&style=flat-square&logo=yarn&logoColor=black)
 ![Bash](https://img.shields.io/badge/bash%20-%2349A124.svg?&style=flat-square&logo=gnu-bash&logoColor=black)
 
