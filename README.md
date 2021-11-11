@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulimantekalli/)
 [![Gmail](https://img.shields.io/badge/Gmail%20-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sulimantekalli.se@gmail.com)
-[![GitHub](https://img.shields.io/badge/WarrenWongCodes%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/sulisulisulwan)](https://github.com/sulisulisulwan)
+[![GitHub](https://img.shields.io/badge/sulisulisulwan%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/sulisulisulwan)](https://github.com/sulisulisulwan)
 
 - 👨‍💻 Software Engineer
 - 🎻�Concert Violinist
@@ -47,7 +47,7 @@
 ![Jest](https://img.shields.io/badge/Jest%20-%23C21325.svg?&style=flat-square&logo=Jest&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=flat-square&logo=Trello&logoColor=white)
 ![npm](https://img.shields.io/badge/npm%20-%23CB3837.svg?&style=flat-square&logo=npm&logoColor=black)
-![vim](https://img.shields.io/badge/npm%20-%23CB3837.svg?&style=flat-square&logo=npm&logoColor=black)
+![vim](https://img.shields.io/badge/npm%20-%23CB3837.svg?&style=flat-square&logo=vim&logoColor=black)
 ![Yarn](https://img.shields.io/badge/yarn%20-%232187B6.svg?&style=flat-square&logo=yarn&logoColor=black)
 ![Bash](https://img.shields.io/badge/bash%20-%2349A124.svg?&style=flat-square&logo=gnu-bash&logoColor=black)
 
