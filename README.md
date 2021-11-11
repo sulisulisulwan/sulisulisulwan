@@ -47,7 +47,7 @@
 ![Jest](https://img.shields.io/badge/Jest%20-%23C21325.svg?&style=flat-square&logo=Jest&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=flat-square&logo=Trello&logoColor=white)
 ![npm](https://img.shields.io/badge/npm%20-%23CB3837.svg?&style=flat-square&logo=npm&logoColor=black)
-![vim](https://img.shields.io/badge/npm%20-%23CB3837.svg?&style=flat-square&logo=vim&logoColor=black)
+![vim](https://img.shields.io/badge/vim%20-%23CB3837.svg?&style=flat-square&logo=vim&logoColor=black)
 ![Yarn](https://img.shields.io/badge/yarn%20-%232187B6.svg?&style=flat-square&logo=yarn&logoColor=black)
 ![Bash](https://img.shields.io/badge/bash%20-%2349A124.svg?&style=flat-square&logo=gnu-bash&logoColor=black)
 
